@@ -27,7 +27,7 @@ Built using:
 ---
 
 ### 🔐 Phishing Detection using Email Body
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/rohansood98/Phishing-URL-Detection-using-RoBerta)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/rohansood98/Phishing-Email-detection)
 
 Classifies phishing vs. non-phishing emails using a fine-tuned Mistral-7B model.  
 - ⚙️ Pytorch + Prompt Engineering  
@@ -37,7 +37,7 @@ Classifies phishing vs. non-phishing emails using a fine-tuned Mistral-7B model.
 ---
 
 ### 🌐 Phishing Detection Using URLs
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/rohansood98/Phishing-Email-detection)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/rohansood98/Phishing-URL-Detection-using-RoBerta)
 
 Used RoBERTa with TensorFlow to detect phishing from raw URLs.  
 - 💡 No manual feature engineering  
